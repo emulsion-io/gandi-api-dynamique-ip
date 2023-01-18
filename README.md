@@ -10,8 +10,8 @@ Ensuite le script met à jour l'adresse IP dans la zone DNS de Gandi avec l'adre
 ## Configuration
 
 ### Prérequis
-PHP 5.6 ou supérieur
-Un compte Gandi avec une APIKey
+PHP 5.6 ou supérieur  
+Un compte Gandi avec une APIKey  
 Un domaine géré par Gandi
 
 ### Installation
